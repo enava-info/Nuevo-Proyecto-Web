@@ -1,7 +1,11 @@
-h1{background-color: rgb(255, 115, 0);}
-
 
 /* Ejemplo de Clases*/
 .Ej_Clase{  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: aquamarine;    
+        }
+/* Attencion: es case sensitive*/
+.Menu{   background-color: rgb(95, 50, 179);
+            font-size: 55px;
+            color: white;
+            position: relative;
         }
